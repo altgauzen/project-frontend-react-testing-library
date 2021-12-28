@@ -1,6 +1,19 @@
-### Termos de acordo
+# project-frontend-react-testing-library
 
-Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
+## Meus Comentários
+
+Este foi um projeto individual feito na Trybe no Módulo de Front-end onde aprendi a escrever testes automatizados em React utilizando as ferramentas da react-testing-library.
+Aprendi neste Projeto a:
+- Utilizar os seletores (queries) da React-Testing-Library em testes automatizados;
+- Simular eventos com a React-Testing-Library em testes automatizados;
+- Testar fluxos lógicos assíncronos com a React-Testing-Library;
+- Escrever testes que permitam a refatoração da estrutura dos componentes da aplicação sem necessidade de serem alterados;
+- Criar mocks de APIs utilizando fetch;
+- Testar inputs.
+
+Aproveitamento: 85.71% de aprovação pelos avaliadores da Trybe.
+
+---
 
 # Boas vindas ao repositório do projeto de testes com a React Testing Library!
 
